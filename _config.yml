@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Olivia's Portfolio
 description: This page is for me (Olivia) to make a portfolio to practice Github
+
+github:
+  is_project_page: false
